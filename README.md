@@ -23,7 +23,7 @@ This project showcases an interactive navigation menu that changes color when sc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imaadiiii/interactive-navigation-menu.git
+   git clone https://github.com/imaadiiii/PRODIGY_WD_01.git
    ```
 2. Navigate to the project directory:
    ```bash
