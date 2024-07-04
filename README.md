@@ -2,6 +2,10 @@
 
 This project showcases an interactive navigation menu that changes color when scrolling and hovering over menu items. The menu has a fixed position and is visible on all pages, providing a smooth user experience.
 
+## Check out my Interactive Navigation Menu
+
+https://interactive-navigation-menu-rosy.vercel.app/
+
 ## Features
 
 - Fixed navigation menu visible on all pages.
